@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @siddhivmd
-- 👀 I’m interested in various programming prjects
-- 🌱 I’m currently learning data structures 
+- 👋 Hi, I’m siddhi deshpande
 - 📫 U can reach me on deshpanedsiddhi13@gmail.com
 
 <!---
