@@ -1,3 +1,16 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Siddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhivmd&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhivmd&layout=compact&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=siddhivmd&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=siddhivmd&color=blue&style=flat)
+
+
 ## 👋 Hi, I'm Siddhi Deshpande
 ML/AI engineer who builds intelligent systems that work in the real world — from NLP pipelines and classification models to production-ready APIs. Open to remote roles and freelance projects.
 
