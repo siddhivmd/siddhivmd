@@ -38,6 +38,9 @@ A content moderation API that flags toxic content in real time. Designed as a pr
 
 ---
 
+
+![Snake animation](https://raw.githubusercontent.com/siddhivmd/siddhivmd/output/github-contribution-grid-snake.svg)
+
 ### 🚧 Currently working on
 Improving ClearSignal's accuracy and containerising it with Docker. Also exploring fine-tuning smaller LLMs for domain-specific classification.
 
