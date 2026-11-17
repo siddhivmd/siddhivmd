@@ -47,5 +47,5 @@ Improving ClearSignal's accuracy and containerising it with Docker. Also explori
 ---
 
 ### 📬 Get in touch
-- 📧 deshpanedsiddhi13@gmail.com
+- 📧 deshpandesiddhi13@gmail.com
 - Open to remote ML/AI roles and freelance AI projects
